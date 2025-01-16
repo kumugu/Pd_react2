@@ -14,7 +14,7 @@ const Hero = () => {
         className="text-center text-white"
       >
         <h1 className="text-6xl font-bold">Welcome to My Portfolio</h1>
-        <p className="mt-4 text-xl">Scroll down to explore more!</p>
+        <p className="mt-4 text-xl">Scroll down to explore more!!!</p>
       </motion.div>
     </section>
   );
