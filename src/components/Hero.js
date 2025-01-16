@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <section
       id="hero"
-      className="h-screen bg-gradient-to-br from-[#8B7355] via-[#6F4E37] to-[#5C4033] flex items-center justify-center"
+      className="h-screen bg-gradient-to-br from-[#465866] via-[#6F4E37] to-[#5C4033] flex items-center justify-center"
     >
       <motion.div
         initial={{ opacity: 0, y: 50 }}
